@@ -1,0 +1,10 @@
+queries = {'exact_bigrams': {'birth control', 'women’s health', 'abortion rights', 'pro life', 'pro choice', 'unborn baby', 'unborn babies', 'abortion clinic', 'planned parenthood', 'abortion access', 'safe abortion', 'abortion services', 'reproductive freedom', 'reproductive rights', 'reproductive autonomy', 'procuring abortion', 'suspected pregnancy', 'abortion inducers', 'induced abortion', 'induced abortions', 'induce abortion', 'induce miscarriage', 'induced miscarriage', 'induced miscarriages', 'practice abortion', 'practicing abortion', 'procure abortion', 'procure abortions', 'illegal abortion', 'illegal abortions', 'want abortions', 'unwanted baby', 'unwanted babies', 'inducing miscarriage', 'abortion laws', 'abortion law', 'abortion statue', 'abortion statues', 'abortion policy', 'abortion question', 'terminate pregnancy', 'suffers abortion', 'criminal abortion', 'producing abortion', 'produce abortion', 'oppose abortion', 'opposing abortion', 'unlawful abortion'},
+    'exact_trigrams': {'roe v. wade', 'roe v wade', 'dobbs v. jackson', 'dobbs v jackson', 'birth control pill', 'family planning act', 'safe legal abortion', 'ending a pregnancy', 'observations on abortion', 'get an abortion', 'abortion after quickening', 'abortions after quickening', 'wants an abortion', 'wanted an abortion', 'procure an abortion', 'practice of abortion', 'procuring of abortion', 'rate of abortion', 'rate of abortions', 'terminate a pregnancy', 'production of abortion', 'opposed to abortion'},
+    'exact_quadgrams': {'right to an abortion', 'termination of a pregnancy'},
+     'p8': {'pro-life'},
+     'p9': {'pro-choice'},
+     'p11': {'abortionist', 'emmenagogue'},
+     'p13': {'birth-control', 'abortifacient', 'self-abortion'},
+     'e3': {'FCC'},
+     'e6': {'opioid'},
+}
